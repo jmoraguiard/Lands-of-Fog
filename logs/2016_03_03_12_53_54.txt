@@ -1,0 +1,6 @@
+0;System;start;0;0
+0;Player1;explorer;186.8539;0.1393963
+0;Player2;explorer;-189.2427;0.13
+0;Player1;pos;186.8539;0.1393963
+0;Player2;pos;-189.2427;0.13
+0;System;end;0;0
